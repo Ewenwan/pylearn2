@@ -1,5 +1,7 @@
 ==============================
 Pylearn2: A machine learning research library
+
+Pylearn2 是建立在Theano之上的一个机器学习库
 ==============================
 
 **Warning** :
